@@ -11,7 +11,7 @@ This repository demonstrates sensor fusion principles using the `robot_localizat
     <tr>
       <td align="center" width="50%">
         <img src="images/turtle_demo.png" alt="Turtle Demo" width="500"/>
-        <br/><i>Demo 4 turtles paths</i>
+        <br/><i>Demo with controller</i>
       </td>
       <td align="center" width="60%">
         <img src="images/architecture.png" alt="Demonstration Architecture" width="700"/>

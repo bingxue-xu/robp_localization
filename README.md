@@ -15,7 +15,7 @@ This repository demonstrates sensor fusion principles using the `robot_localizat
       </td>
       <td align="center" width="60%">
         <img src="images/architecture.png" alt="Demonstration Architecture" width="700"/>
-        <br/><i>Demonstration architecture</i>
+        <br/><i>Demo architecture</i>
       </td>
     </tr>
   </table>
